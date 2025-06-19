@@ -1,11 +1,24 @@
 {
-  "name": "pushgmarena",
+  "name": "arenapush",
   "version": "1.0.0",
+  "description": "Multi-account Discord bot to auto-send messages per channel with configurable delay.",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "auto-message",
+    "multi-account",
+    "push"
+  ],
+  "author": "legi0321",
+  "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.4.5",
     "delay": "^5.0.0",
+    "dotenv": "^16.4.5",
     "node-fetch": "^2.6.0"
   }
 }

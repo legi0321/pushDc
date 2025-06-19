@@ -1,0 +1,11 @@
+{
+  "name": "pushgmarena",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "delay": "^5.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}

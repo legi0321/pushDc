@@ -78,3 +78,7 @@
 !terrawrium
 !bedbunks
 !librawry
+!voya
+!voyagames
+!engineroom
+!Equip
